@@ -20,7 +20,7 @@ A powerful Telegram bot that allows users to:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Exzou0/YT_util.git
 cd your-repo
 
 
@@ -54,4 +54,4 @@ dotenv 🔐
 📩 Contact
 Have suggestions or found a bug? Feel free to open an issue or contribute! 😃
 
-🔗 GitHub Repository: your-repo-link
+🔗 GitHub Repository: (https://github.com/Exzou0/YT_util.git)
