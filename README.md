@@ -1,5 +1,6 @@
 # YT_util
 🎥 YouTube Downloader Bot 🎵
+
 A powerful Telegram bot that allows users to:
 
 ✅ Search for YouTube videos
@@ -21,6 +22,7 @@ A powerful Telegram bot that allows users to:
 1️⃣ Clone the repository
 
 git clone https://github.com/Exzou0/YT_util.git
+
 cd your-repo
 
 
@@ -33,6 +35,7 @@ pip install -r requirements.txt
 Create a .env file in the project directory and add:
 
 TELEGRAM_BOT_TOKEN=your-telegram-bot-token
+
 YOUTUBE_API_KEY=your-youtube-api-key
 
 
@@ -41,6 +44,7 @@ YOUTUBE_API_KEY=your-youtube-api-key
 python main.py
 
 🛠 Technologies Used
+
 Python 🐍
 
 Telebot (pyTelegramBotAPI) 🤖
@@ -52,6 +56,7 @@ Google API (YouTube Data v3) 🔎
 dotenv 🔐
 
 📩 Contact
+
 Have suggestions or found a bug? Feel free to open an issue or contribute! 😃
 
 🔗 GitHub Repository: (https://github.com/Exzou0/YT_util.git)
